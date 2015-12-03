@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Etachka</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="title_activity_event">Подія</string>
+</resources>
